@@ -9,6 +9,7 @@ The project includes a working system for account creation, user login and savin
 Given the time-limit, there are areas that I would like to improve upon. These are:
 
 - Error handling, in the event of a backend disconnect.
+- Hashing passwords in the database.
 
 
 ## Usage
