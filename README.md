@@ -4,7 +4,7 @@ This project was built in a day, as part of a Hack-Day event. It uses MongoDB, E
 
 The project includes a working system for account creation, user login and saving data to user profiles.
 
-## Teck Stack
+## Tech Stack
 This project was built using:
 - React (using Create React App - see frontend repo - TechInterviewHelper)
 - Express
