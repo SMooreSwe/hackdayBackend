@@ -1,6 +1,6 @@
 # Technical Interview Helper - Backend
 
-This project was built in a day, as part of a Hack-Day event. It uses MongoDB, ExpressJS and quotes are generated with the Techy API. The frontend was made using Create React App, in Typescript and can be found in a separate repository.
+This project was built in a day, as part of a Hack-Day event. It uses MongoDB, ExpressJS and quotes are generated with the Techy API. The frontend was made using Create React App, in Typescript and can be found in a separate [repository](https://github.com/SMooreSwe/techInterviewHelper).
 
 The project includes a working system for account creation, user login and saving data to user profiles.
 
